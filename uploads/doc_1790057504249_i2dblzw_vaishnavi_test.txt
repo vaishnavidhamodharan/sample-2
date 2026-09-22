@@ -1,0 +1,19 @@
+DocuClean AI Evaluation Document
+CONFIDENTIAL AUDIT RECORD
+
+S  E  C  T  I  O  N   1 :  I N V O I C E   V E R I F I C A T I O N
+------------------------------------------------------------------
+Invoice Number:   INV - 92841
+Account Code:     AC - 78201
+Fiscal Year:      2 0 2 4 - Q 4
+
+During the reconcili-
+ation of third-party vendor disburse-
+ments, the following metrics were established:
+
+- Subtotal:       $ 1,450,200.00
+- Applied Tax:    17 . 45 %
+- Total Due:      $ 1,703,259.90
+- Audit Status:   APPROVED
+
+All transactions referenced under invoice INV - 92841 have been certified.

@@ -1,0 +1,26 @@
+{
+  "documentId": "doc_1790057504249_i2dblzw",
+  "title": "vaishnavi_test",
+  "originalFileName": "vaishnavi_test.txt",
+  "fileType": "TXT",
+  "fileSize": 591,
+  "originalText": "DocuClean AI Evaluation Document\nCONFIDENTIAL AUDIT RECORD\n\nS  E  C  T  I  O  N   1 :  I N V O I C E   V E R I F I C A T I O N\n------------------------------------------------------------------\nInvoice Number:   INV - 92841\nAccount Code:     AC - 78201\nFiscal Year:      2 0 2 4 - Q 4\n\nDuring the reconcili-\nation of third-party vendor disburse-\nments, the following metrics were established:\n\n- Subtotal:       $ 1,450,200.00\n- Applied Tax:    17 . 45 %\n- Total Due:      $ 1,703,259.90\n- Audit Status:   APPROVED\n\nAll transactions referenced under invoice INV - 92841 have been certified.\n",
+  "cleanedText": "DocuClean AI Evaluation Document\nCONFIDENTIAL AUDIT RECORD\n\nSECTION 1: INVOICE VERIFICATION\n------------------------------------------------------------------\nInvoice Number: INV-92841\nAccount Code: AC-78201\nFiscal Year: 2024-Q4\n\nDuring the reconciliation of third-party vendor disbursements, the following metrics were established:\n\n• Subtotal: $1,450,200.00\n• Applied Tax: 17.45%\n• Total Due: $1,703,259.90\n• Audit Status: APPROVED\n\nAll transactions referenced under invoice INV-92841 have been certified.",
+  "statistics": {
+    "artifactsRemoved": 1,
+    "spacesFixed": 24,
+    "lineBreaksFixed": 8,
+    "ocrCorrectionsCount": 12,
+    "readabilityScoreBefore": 70,
+    "readabilityScoreAfter": 98
+  },
+  "pageCount": 1,
+  "selectedOptions": [
+    "remove-spaces",
+    "fix-line-breaks",
+    "remove-noise",
+    "normalize-formatting",
+    "correct-ocr"
+  ],
+  "processedAt": "2026-09-22T06:12:10.898Z"
+}
